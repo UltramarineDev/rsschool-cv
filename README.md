@@ -1,1 +1,1 @@
-http://ultramarinedev.github.io/rsschool-cv/cv
+*http://ultramarinedev.github.io/rsschool-cv/cv*
