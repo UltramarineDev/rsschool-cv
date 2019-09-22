@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.content{
+    min-width: 300px;
+    max-width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: "Roboto", "Arial", sans-serif;
+    line-height: 1.5;
+}
+
+.contacts{
+    display: inline-block;
+    color: gray;
+}
+
+.name{
+    font-weight: bold;
+    color: coral;    
+}
+
+h3{
+    color: rgb(39, 37, 37);
+}
+
+.about, .skills, .education, .languages{
+    margin-top: 30px;
+}
+
+.education ul, .languages ul{
+    margin-left: 30px;
+}
